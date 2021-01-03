@@ -70,6 +70,7 @@
 }
 
 .filepond--drop-label{
-    color:vr(--color-text-light);
+    color:var(--color-text-light);
     font-size:inherit;
+ 
 }
